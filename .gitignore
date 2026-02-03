@@ -1,0 +1,24 @@
+# Eclipse / IDE
+.metadata/
+.project
+.classpath
+.settings/
+*.launch
+
+# Java / Maven
+target/
+build/
+out/
+*.class
+*.jar
+*.war
+
+# Node
+node_modules/
+
+# System junk
+Thumbs.db
+.DS_Store
+
+# Environment
+.env

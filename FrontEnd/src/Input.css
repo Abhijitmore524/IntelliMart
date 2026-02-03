@@ -1,0 +1,7 @@
+@import "tailwindcss";
+
+/* Your custom styles go below the import */
+body {
+  margin: 0;
+  font-family: sans-serif;
+}
